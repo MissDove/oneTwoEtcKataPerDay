@@ -1,3 +1,3 @@
-I have taken a personal challenge to solve at least one kata everyday from codewars website. I will be storing my solutions in this directory.
+I have taken a personal challenge to solve at least one kata  per day from Codewars website and other online resources. I will be storing my solutions in this directory.
 
-The languages I would like to learn & explore: Elixir, Go, Java, JavaScript, Kotlin, PHP, Python, Ruby, SQL and TypeScript.
+Some of the languages I would like to learn and explore are: JavaScript, Python, Ruby, TypeScript  SQL, Elixir and Go.
